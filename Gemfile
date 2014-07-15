@@ -19,7 +19,6 @@ gem 'font-awesome-rails', '~> 4.1.0.0'
 
 group :development do
   gem 'pry'
-  gem 'spring'
 end
 
 group :development, :test do
